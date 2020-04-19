@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-tutorials.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-tutorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-tutorials_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-tutorials_main.iml" group="gradle-tutorials" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-tutorials_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-tutorials_test.iml" group="gradle-tutorials" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradletaskdemo/gradletaskdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/gradletaskdemo/gradletaskdemo.iml" group="gradletaskdemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradletaskdemo/gradletaskdemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradletaskdemo/gradletaskdemo_main.iml" group="gradletaskdemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradletaskdemo/gradletaskdemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradletaskdemo/gradletaskdemo_test.iml" group="gradletaskdemo" />
+    </modules>
+  </component>
+</project>
